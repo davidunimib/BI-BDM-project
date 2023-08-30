@@ -1,0 +1,703 @@
+param,value,city
+Purchasing Power Index,,Viterbo
+Safety Index,66.91,Viterbo
+Health Care Index,41.67,Viterbo
+Climate Index,,Viterbo
+Cost of Living Index,,Viterbo
+Property Price to Income Ratio,5.49,Viterbo
+Traffic Commute Time Index,40.0,Viterbo
+Pollution Index,51.15,Viterbo
+ Quality of Life Index,,Viterbo
+Purchasing Power Index,61.76,Vicenza
+Safety Index,58.98,Vicenza
+Health Care Index,78.18,Vicenza
+Climate Index,,Vicenza
+Cost of Living Index,64.85,Vicenza
+Property Price to Income Ratio,6.84,Vicenza
+Traffic Commute Time Index,29.12,Vicenza
+Pollution Index,60.54,Vicenza
+ Quality of Life Index,,Vicenza
+Purchasing Power Index,64.28,Verona
+Safety Index,68.55,Verona
+Health Care Index,68.79,Verona
+Climate Index,87.02,Verona
+Cost of Living Index,60.39,Verona
+Property Price to Income Ratio,12.74,Verona
+Traffic Commute Time Index,27.67,Verona
+Pollution Index,58.3,Verona
+ Quality of Life Index,145.03,Verona
+Purchasing Power Index,,Ventimiglia
+Safety Index,44.25,Ventimiglia
+Health Care Index,47.22,Ventimiglia
+Climate Index,94.92,Ventimiglia
+Cost of Living Index,,Ventimiglia
+Property Price to Income Ratio,6.77,Ventimiglia
+Traffic Commute Time Index,31.0,Ventimiglia
+Pollution Index,65.52,Ventimiglia
+ Quality of Life Index,,Ventimiglia
+Purchasing Power Index,56.31,Venice
+Safety Index,68.57,Venice
+Health Care Index,66.74,Venice
+Climate Index,82.39,Venice
+Cost of Living Index,66.35,Venice
+Property Price to Income Ratio,10.7,Venice
+Traffic Commute Time Index,40.0,Venice
+Pollution Index,65.41,Venice
+ Quality of Life Index,130.03,Venice
+Purchasing Power Index,67.15,Varese
+Safety Index,54.09,Varese
+Health Care Index,55.32,Varese
+Climate Index,84.67,Varese
+Cost of Living Index,60.28,Varese
+Property Price to Income Ratio,7.7,Varese
+Traffic Commute Time Index,31.88,Varese
+Pollution Index,54.99,Varese
+ Quality of Life Index,137.94,Varese
+Purchasing Power Index,70.58,Udine
+Safety Index,62.82,Udine
+Health Care Index,65.56,Udine
+Climate Index,88.62,Udine
+Cost of Living Index,56.76,Udine
+Property Price to Income Ratio,4.74,Udine
+Traffic Commute Time Index,22.43,Udine
+Pollution Index,38.41,Udine
+ Quality of Life Index,168.17,Udine
+Purchasing Power Index,65.17,Turin
+Safety Index,47.76,Turin
+Health Care Index,66.36,Turin
+Climate Index,85.66,Turin
+Cost of Living Index,60.6,Turin
+Property Price to Income Ratio,8.29,Turin
+Traffic Commute Time Index,27.94,Turin
+Pollution Index,68.68,Turin
+ Quality of Life Index,130.94,Turin
+Purchasing Power Index,62.28,Trieste
+Safety Index,72.83,Trieste
+Health Care Index,68.39,Trieste
+Climate Index,92.64,Trieste
+Cost of Living Index,65.74,Trieste
+Property Price to Income Ratio,5.7,Trieste
+Traffic Commute Time Index,28.79,Trieste
+Pollution Index,47.6,Trieste
+ Quality of Life Index,161.16,Trieste
+Purchasing Power Index,60.81,Treviso
+Safety Index,75.9,Treviso
+Health Care Index,75.23,Treviso
+Climate Index,89.73,Treviso
+Cost of Living Index,61.69,Treviso
+Property Price to Income Ratio,8.58,Treviso
+Traffic Commute Time Index,35.56,Treviso
+Pollution Index,49.24,Treviso
+ Quality of Life Index,156.93,Treviso
+Purchasing Power Index,60.81,Trento
+Safety Index,70.74,Trento
+Health Care Index,74.4,Trento
+Climate Index,80.86,Trento
+Cost of Living Index,63.94,Trento
+Property Price to Income Ratio,12.95,Trento
+Traffic Commute Time Index,30.5,Trento
+Pollution Index,12.75,Trento
+ Quality of Life Index,173.31,Trento
+Purchasing Power Index,,Siracusa
+Safety Index,50.27,Siracusa
+Health Care Index,38.89,Siracusa
+Climate Index,96.89,Siracusa
+Cost of Living Index,,Siracusa
+Property Price to Income Ratio,15.25,Siracusa
+Traffic Commute Time Index,60.0,Siracusa
+Pollution Index,69.2,Siracusa
+ Quality of Life Index,,Siracusa
+Purchasing Power Index,,Siena
+Safety Index,70.44,Siena
+Health Care Index,62.31,Siena
+Climate Index,91.19,Siena
+Cost of Living Index,,Siena
+Property Price to Income Ratio,14.0,Siena
+Traffic Commute Time Index,95.0,Siena
+Pollution Index,27.62,Siena
+ Quality of Life Index,,Siena
+Purchasing Power Index,,Savona
+Safety Index,47.12,Savona
+Health Care Index,65.28,Savona
+Climate Index,95.0,Savona
+Cost of Living Index,,Savona
+Property Price to Income Ratio,8.16,Savona
+Traffic Commute Time Index,11.0,Savona
+Pollution Index,44.54,Savona
+ Quality of Life Index,,Savona
+Purchasing Power Index,,Sassuolo
+Safety Index,47.0,Sassuolo
+Health Care Index,69.44,Sassuolo
+Climate Index,58.84,Sassuolo
+Cost of Living Index,,Sassuolo
+Property Price to Income Ratio,,Sassuolo
+Traffic Commute Time Index,33.0,Sassuolo
+Pollution Index,61.49,Sassuolo
+ Quality of Life Index,,Sassuolo
+Purchasing Power Index,55.84,Salerno
+Safety Index,61.97,Salerno
+Health Care Index,56.02,Salerno
+Climate Index,97.76,Salerno
+Cost of Living Index,52.42,Salerno
+Property Price to Income Ratio,11.66,Salerno
+Traffic Commute Time Index,26.75,Salerno
+Pollution Index,46.8,Salerno
+ Quality of Life Index,146.83,Salerno
+Purchasing Power Index,60.59,Rome
+Safety Index,47.1,Rome
+Health Care Index,60.75,Rome
+Climate Index,93.7,Rome
+Cost of Living Index,64.97,Rome
+Property Price to Income Ratio,15.52,Rome
+Traffic Commute Time Index,40.54,Rome
+Pollution Index,62.66,Rome
+ Quality of Life Index,119.25,Rome
+Purchasing Power Index,71.96,Rimini
+Safety Index,55.81,Rimini
+Health Care Index,87.96,Rimini
+Climate Index,90.34,Rimini
+Cost of Living Index,59.78,Rimini
+Property Price to Income Ratio,7.94,Rimini
+Traffic Commute Time Index,16.75,Rimini
+Pollution Index,32.35,Rimini
+ Quality of Life Index,178.12,Rimini
+Purchasing Power Index,59.57,Reggio Nell'emilia
+Safety Index,51.62,Reggio Nell'emilia
+Health Care Index,70.43,Reggio Nell'emilia
+Climate Index,88.38,Reggio Nell'emilia
+Cost of Living Index,71.84,Reggio Nell'emilia
+Property Price to Income Ratio,7.55,Reggio Nell'emilia
+Traffic Commute Time Index,17.0,Reggio Nell'emilia
+Pollution Index,62.3,Reggio Nell'emilia
+ Quality of Life Index,142.51,Reggio Nell'emilia
+Purchasing Power Index,64.27,Reggio Di Calabria
+Safety Index,58.39,Reggio Di Calabria
+Health Care Index,35.0,Reggio Di Calabria
+Climate Index,96.88,Reggio Di Calabria
+Cost of Living Index,50.24,Reggio Di Calabria
+Property Price to Income Ratio,4.31,Reggio Di Calabria
+Traffic Commute Time Index,25.5,Reggio Di Calabria
+Pollution Index,77.7,Reggio Di Calabria
+ Quality of Life Index,127.31,Reggio Di Calabria
+Purchasing Power Index,,Ravenna
+Safety Index,68.3,Ravenna
+Health Care Index,62.6,Ravenna
+Climate Index,92.15,Ravenna
+Cost of Living Index,,Ravenna
+Property Price to Income Ratio,5.2,Ravenna
+Traffic Commute Time Index,25.5,Ravenna
+Pollution Index,38.78,Ravenna
+ Quality of Life Index,,Ravenna
+Purchasing Power Index,,Ragusa
+Safety Index,60.43,Ragusa
+Health Care Index,46.53,Ragusa
+Climate Index,,Ragusa
+Cost of Living Index,,Ragusa
+Property Price to Income Ratio,3.46,Ragusa
+Traffic Commute Time Index,39.5,Ragusa
+Pollution Index,38.51,Ragusa
+ Quality of Life Index,,Ragusa
+Purchasing Power Index,,Prato
+Safety Index,40.19,Prato
+Health Care Index,47.22,Prato
+Climate Index,94.01,Prato
+Cost of Living Index,,Prato
+Property Price to Income Ratio,,Prato
+Traffic Commute Time Index,35.0,Prato
+Pollution Index,48.28,Prato
+ Quality of Life Index,,Prato
+Purchasing Power Index,66.91,Pordenone
+Safety Index,75.11,Pordenone
+Health Care Index,72.1,Pordenone
+Climate Index,88.22,Pordenone
+Cost of Living Index,59.49,Pordenone
+Property Price to Income Ratio,4.16,Pordenone
+Traffic Commute Time Index,30.4,Pordenone
+Pollution Index,29.38,Pordenone
+ Quality of Life Index,177.67,Pordenone
+Purchasing Power Index,,Pistoia
+Safety Index,70.53,Pistoia
+Health Care Index,68.75,Pistoia
+Climate Index,89.71,Pistoia
+Cost of Living Index,,Pistoia
+Property Price to Income Ratio,6.33,Pistoia
+Traffic Commute Time Index,13.0,Pistoia
+Pollution Index,39.31,Pistoia
+ Quality of Life Index,,Pistoia
+Purchasing Power Index,58.95,Pisa
+Safety Index,48.83,Pisa
+Health Care Index,69.14,Pisa
+Climate Index,92.61,Pisa
+Cost of Living Index,60.84,Pisa
+Property Price to Income Ratio,10.1,Pisa
+Traffic Commute Time Index,14.33,Pisa
+Pollution Index,48.97,Pisa
+ Quality of Life Index,150.52,Pisa
+Purchasing Power Index,,Piacenza
+Safety Index,69.59,Piacenza
+Health Care Index,60.74,Piacenza
+Climate Index,86.49,Piacenza
+Cost of Living Index,,Piacenza
+Property Price to Income Ratio,7.38,Piacenza
+Traffic Commute Time Index,13.0,Piacenza
+Pollution Index,49.14,Piacenza
+ Quality of Life Index,,Piacenza
+Purchasing Power Index,58.17,Pescara
+Safety Index,51.93,Pescara
+Health Care Index,58.53,Pescara
+Climate Index,90.29,Pescara
+Cost of Living Index,60.67,Pescara
+Property Price to Income Ratio,6.42,Pescara
+Traffic Commute Time Index,34.33,Pescara
+Pollution Index,61.53,Pescara
+ Quality of Life Index,132.06,Pescara
+Purchasing Power Index,66.76,Perugia
+Safety Index,58.78,Perugia
+Health Care Index,59.07,Perugia
+Climate Index,90.33,Perugia
+Cost of Living Index,55.53,Perugia
+Property Price to Income Ratio,12.72,Perugia
+Traffic Commute Time Index,25.0,Perugia
+Pollution Index,43.87,Perugia
+ Quality of Life Index,149.81,Perugia
+Purchasing Power Index,51.3,Pavia
+Safety Index,62.8,Pavia
+Health Care Index,70.56,Pavia
+Climate Index,88.36,Pavia
+Cost of Living Index,57.14,Pavia
+Property Price to Income Ratio,10.32,Pavia
+Traffic Commute Time Index,36.67,Pavia
+Pollution Index,54.02,Pavia
+ Quality of Life Index,139.21,Pavia
+Purchasing Power Index,64.87,Parma
+Safety Index,62.55,Parma
+Health Care Index,65.0,Parma
+Climate Index,87.98,Parma
+Cost of Living Index,65.42,Parma
+Property Price to Income Ratio,6.82,Parma
+Traffic Commute Time Index,23.83,Parma
+Pollution Index,65.37,Parma
+ Quality of Life Index,143.69,Parma
+Purchasing Power Index,64.76,Palermo
+Safety Index,55.89,Palermo
+Health Care Index,61.71,Palermo
+Climate Index,97.63,Palermo
+Cost of Living Index,53.36,Palermo
+Property Price to Income Ratio,5.41,Palermo
+Traffic Commute Time Index,32.06,Palermo
+Pollution Index,67.2,Palermo
+ Quality of Life Index,139.51,Palermo
+Purchasing Power Index,59.27,Padova
+Safety Index,54.34,Padova
+Health Care Index,72.54,Padova
+Climate Index,92.84,Padova
+Cost of Living Index,61.79,Padova
+Property Price to Income Ratio,8.97,Padova
+Traffic Commute Time Index,29.31,Padova
+Pollution Index,66.82,Padova
+ Quality of Life Index,136.49,Padova
+Purchasing Power Index,,Olbia
+Safety Index,55.64,Olbia
+Health Care Index,25.0,Olbia
+Climate Index,94.59,Olbia
+Cost of Living Index,,Olbia
+Property Price to Income Ratio,5.55,Olbia
+Traffic Commute Time Index,5.0,Olbia
+Pollution Index,33.62,Olbia
+ Quality of Life Index,,Olbia
+Purchasing Power Index,59.72,Naples
+Safety Index,37.35,Naples
+Health Care Index,60.12,Naples
+Climate Index,95.76,Naples
+Cost of Living Index,56.42,Naples
+Property Price to Income Ratio,11.19,Naples
+Traffic Commute Time Index,46.41,Naples
+Pollution Index,79.0,Naples
+ Quality of Life Index,105.83,Naples
+Purchasing Power Index,75.69,Monza
+Safety Index,53.76,Monza
+Health Care Index,66.2,Monza
+Climate Index,88.23,Monza
+Cost of Living Index,62.41,Monza
+Property Price to Income Ratio,7.08,Monza
+Traffic Commute Time Index,41.55,Monza
+Pollution Index,58.88,Monza
+ Quality of Life Index,139.71,Monza
+Purchasing Power Index,69.81,Modena
+Safety Index,54.55,Modena
+Health Care Index,77.82,Modena
+Climate Index,87.99,Modena
+Cost of Living Index,65.97,Modena
+Property Price to Income Ratio,7.56,Modena
+Traffic Commute Time Index,39.33,Modena
+Pollution Index,59.68,Modena
+ Quality of Life Index,142.05,Modena
+Purchasing Power Index,51.15,Milan
+Safety Index,50.61,Milan
+Health Care Index,71.5,Milan
+Climate Index,88.12,Milan
+Cost of Living Index,73.31,Milan
+Property Price to Income Ratio,19.58,Milan
+Traffic Commute Time Index,36.17,Milan
+Pollution Index,67.62,Milan
+ Quality of Life Index,113.66,Milan
+Purchasing Power Index,,Mestre
+Safety Index,41.67,Mestre
+Health Care Index,62.04,Mestre
+Climate Index,,Mestre
+Cost of Living Index,,Mestre
+Property Price to Income Ratio,3.75,Mestre
+Traffic Commute Time Index,23.0,Mestre
+Pollution Index,70.69,Mestre
+ Quality of Life Index,,Mestre
+Purchasing Power Index,,Messina
+Safety Index,61.76,Messina
+Health Care Index,22.22,Messina
+Climate Index,97.52,Messina
+Cost of Living Index,,Messina
+Property Price to Income Ratio,4.71,Messina
+Traffic Commute Time Index,41.0,Messina
+Pollution Index,60.1,Messina
+ Quality of Life Index,,Messina
+Purchasing Power Index,,Matera
+Safety Index,79.26,Matera
+Health Care Index,97.22,Matera
+Climate Index,91.89,Matera
+Cost of Living Index,,Matera
+Property Price to Income Ratio,,Matera
+Traffic Commute Time Index,30.0,Matera
+Pollution Index,0.0,Matera
+ Quality of Life Index,,Matera
+Purchasing Power Index,,Mantova
+Safety Index,57.47,Mantova
+Health Care Index,67.59,Mantova
+Climate Index,86.66,Mantova
+Cost of Living Index,,Mantova
+Property Price to Income Ratio,3.88,Mantova
+Traffic Commute Time Index,17.33,Mantova
+Pollution Index,65.23,Mantova
+ Quality of Life Index,,Mantova
+Purchasing Power Index,,Lucca
+Safety Index,75.02,Lucca
+Health Care Index,87.04,Lucca
+Climate Index,93.09,Lucca
+Cost of Living Index,,Lucca
+Property Price to Income Ratio,10.0,Lucca
+Traffic Commute Time Index,34.67,Lucca
+Pollution Index,34.94,Lucca
+ Quality of Life Index,,Lucca
+Purchasing Power Index,,Livorno
+Safety Index,56.72,Livorno
+Health Care Index,53.47,Livorno
+Climate Index,94.09,Livorno
+Cost of Living Index,,Livorno
+Property Price to Income Ratio,5.06,Livorno
+Traffic Commute Time Index,20.0,Livorno
+Pollution Index,62.15,Livorno
+ Quality of Life Index,,Livorno
+Purchasing Power Index,,Lecco
+Safety Index,52.94,Lecco
+Health Care Index,84.17,Lecco
+Climate Index,84.6,Lecco
+Cost of Living Index,,Lecco
+Property Price to Income Ratio,7.3,Lecco
+Traffic Commute Time Index,23.0,Lecco
+Pollution Index,42.15,Lecco
+ Quality of Life Index,,Lecco
+Purchasing Power Index,64.46,Lecce
+Safety Index,69.89,Lecce
+Health Care Index,75.56,Lecce
+Climate Index,93.52,Lecce
+Cost of Living Index,54.84,Lecce
+Property Price to Income Ratio,6.02,Lecce
+Traffic Commute Time Index,19.33,Lecce
+Pollution Index,43.49,Lecce
+ Quality of Life Index,171.97,Lecce
+Purchasing Power Index,,Lamezia Terme
+Safety Index,61.76,Lamezia Terme
+Health Care Index,59.72,Lamezia Terme
+Climate Index,95.98,Lamezia Terme
+Cost of Living Index,,Lamezia Terme
+Property Price to Income Ratio,4.88,Lamezia Terme
+Traffic Commute Time Index,6.0,Lamezia Terme
+Pollution Index,15.4,Lamezia Terme
+ Quality of Life Index,,Lamezia Terme
+Purchasing Power Index,,La Spezia
+Safety Index,73.89,La Spezia
+Health Care Index,86.81,La Spezia
+Climate Index,94.14,La Spezia
+Cost of Living Index,,La Spezia
+Property Price to Income Ratio,5.49,La Spezia
+Traffic Commute Time Index,27.5,La Spezia
+Pollution Index,60.23,La Spezia
+ Quality of Life Index,,La Spezia
+Purchasing Power Index,,L'Aquila
+Safety Index,33.87,L'Aquila
+Health Care Index,66.67,L'Aquila
+Climate Index,90.32,L'Aquila
+Cost of Living Index,,L'Aquila
+Property Price to Income Ratio,4.32,L'Aquila
+Traffic Commute Time Index,20.0,L'Aquila
+Pollution Index,33.62,L'Aquila
+ Quality of Life Index,,L'Aquila
+Purchasing Power Index,,Gorizia
+Safety Index,75.8,Gorizia
+Health Care Index,50.0,Gorizia
+Climate Index,85.75,Gorizia
+Cost of Living Index,,Gorizia
+Property Price to Income Ratio,,Gorizia
+Traffic Commute Time Index,14.0,Gorizia
+Pollution Index,18.05,Gorizia
+ Quality of Life Index,,Gorizia
+Purchasing Power Index,57.62,Genoa
+Safety Index,55.04,Genoa
+Health Care Index,69.81,Genoa
+Climate Index,95.0,Genoa
+Cost of Living Index,65.0,Genoa
+Property Price to Income Ratio,8.99,Genoa
+Traffic Commute Time Index,34.64,Genoa
+Pollution Index,50.38,Genoa
+ Quality of Life Index,143.76,Genoa
+Purchasing Power Index,,Forli
+Safety Index,62.99,Forli
+Health Care Index,97.22,Forli
+Climate Index,87.43,Forli
+Cost of Living Index,,Forli
+Property Price to Income Ratio,2.73,Forli
+Traffic Commute Time Index,13.0,Forli
+Pollution Index,66.67,Forli
+ Quality of Life Index,,Forli
+Purchasing Power Index,53.66,Florence
+Safety Index,60.64,Florence
+Health Care Index,67.85,Florence
+Climate Index,92.45,Florence
+Cost of Living Index,68.11,Florence
+Property Price to Income Ratio,15.39,Florence
+Traffic Commute Time Index,28.72,Florence
+Pollution Index,49.33,Florence
+ Quality of Life Index,140.29,Florence
+Purchasing Power Index,,Ferrara
+Safety Index,69.3,Ferrara
+Health Care Index,69.07,Ferrara
+Climate Index,87.37,Ferrara
+Cost of Living Index,,Ferrara
+Property Price to Income Ratio,3.67,Ferrara
+Traffic Commute Time Index,50.0,Ferrara
+Pollution Index,57.24,Ferrara
+ Quality of Life Index,,Ferrara
+Purchasing Power Index,,Domodossola
+Safety Index,75.74,Domodossola
+Health Care Index,44.44,Domodossola
+Climate Index,,Domodossola
+Cost of Living Index,,Domodossola
+Property Price to Income Ratio,,Domodossola
+Traffic Commute Time Index,35.0,Domodossola
+Pollution Index,20.69,Domodossola
+ Quality of Life Index,,Domodossola
+Purchasing Power Index,,Cuneo
+Safety Index,66.86,Cuneo
+Health Care Index,62.04,Cuneo
+Climate Index,81.7,Cuneo
+Cost of Living Index,,Cuneo
+Property Price to Income Ratio,7.48,Cuneo
+Traffic Commute Time Index,10.0,Cuneo
+Pollution Index,14.73,Cuneo
+ Quality of Life Index,,Cuneo
+Purchasing Power Index,,Crema
+Safety Index,42.42,Crema
+Health Care Index,59.72,Crema
+Climate Index,88.34,Crema
+Cost of Living Index,,Crema
+Property Price to Income Ratio,,Crema
+Traffic Commute Time Index,28.0,Crema
+Pollution Index,77.87,Crema
+ Quality of Life Index,,Crema
+Purchasing Power Index,53.84,Como
+Safety Index,69.92,Como
+Health Care Index,62.59,Como
+Climate Index,84.6,Como
+Cost of Living Index,73.49,Como
+Property Price to Income Ratio,11.5,Como
+Traffic Commute Time Index,31.6,Como
+Pollution Index,46.82,Como
+ Quality of Life Index,143.87,Como
+Purchasing Power Index,,Chieti
+Safety Index,73.53,Chieti
+Health Care Index,86.11,Chieti
+Climate Index,90.36,Chieti
+Cost of Living Index,,Chieti
+Property Price to Income Ratio,,Chieti
+Traffic Commute Time Index,13.0,Chieti
+Pollution Index,35.29,Chieti
+ Quality of Life Index,,Chieti
+Purchasing Power Index,55.7,Catania
+Safety Index,35.61,Catania
+Health Care Index,60.99,Catania
+Climate Index,93.96,Catania
+Cost of Living Index,51.73,Catania
+Property Price to Income Ratio,6.88,Catania
+Traffic Commute Time Index,35.8,Catania
+Pollution Index,75.78,Catania
+ Quality of Life Index,115.32,Catania
+Purchasing Power Index,,Caserta
+Safety Index,40.74,Caserta
+Health Care Index,37.96,Caserta
+Climate Index,,Caserta
+Cost of Living Index,,Caserta
+Property Price to Income Ratio,4.92,Caserta
+Traffic Commute Time Index,22.0,Caserta
+Pollution Index,83.01,Caserta
+ Quality of Life Index,,Caserta
+Purchasing Power Index,57.64,Cagliari
+Safety Index,63.9,Cagliari
+Health Care Index,64.21,Cagliari
+Climate Index,95.89,Cagliari
+Cost of Living Index,62.23,Cagliari
+Property Price to Income Ratio,8.86,Cagliari
+Traffic Commute Time Index,30.4,Cagliari
+Pollution Index,32.55,Cagliari
+ Quality of Life Index,160.67,Cagliari
+Purchasing Power Index,79.8,Brindisi
+Safety Index,45.41,Brindisi
+Health Care Index,66.67,Brindisi
+Climate Index,97.37,Brindisi
+Cost of Living Index,57.36,Brindisi
+Property Price to Income Ratio,3.72,Brindisi
+Traffic Commute Time Index,33.0,Brindisi
+Pollution Index,70.79,Brindisi
+ Quality of Life Index,140.6,Brindisi
+Purchasing Power Index,65.42,Brescia
+Safety Index,51.62,Brescia
+Health Care Index,72.77,Brescia
+Climate Index,86.01,Brescia
+Cost of Living Index,63.61,Brescia
+Property Price to Income Ratio,7.0,Brescia
+Traffic Commute Time Index,29.83,Brescia
+Pollution Index,76.1,Brescia
+ Quality of Life Index,130.75,Brescia
+Purchasing Power Index,73.63,Bolzano-Bozen
+Safety Index,65.64,Bolzano-Bozen
+Health Care Index,73.31,Bolzano-Bozen
+Climate Index,80.15,Bolzano-Bozen
+Cost of Living Index,67.49,Bolzano-Bozen
+Property Price to Income Ratio,11.43,Bolzano-Bozen
+Traffic Commute Time Index,19.9,Bolzano-Bozen
+Pollution Index,30.73,Bolzano-Bozen
+ Quality of Life Index,169.69,Bolzano-Bozen
+Purchasing Power Index,59.98,Bologna
+Safety Index,53.24,Bologna
+Health Care Index,77.44,Bologna
+Climate Index,88.12,Bologna
+Cost of Living Index,65.89,Bologna
+Property Price to Income Ratio,10.77,Bologna
+Traffic Commute Time Index,32.06,Bologna
+Pollution Index,58.54,Bologna
+ Quality of Life Index,138.55,Bologna
+Purchasing Power Index,,Biella
+Safety Index,66.6,Biella
+Health Care Index,68.29,Biella
+Climate Index,84.6,Biella
+Cost of Living Index,,Biella
+Property Price to Income Ratio,4.27,Biella
+Traffic Commute Time Index,17.0,Biella
+Pollution Index,33.62,Biella
+ Quality of Life Index,,Biella
+Purchasing Power Index,72.82,Bergamo
+Safety Index,63.89,Bergamo
+Health Care Index,64.71,Bergamo
+Climate Index,87.44,Bergamo
+Cost of Living Index,62.91,Bergamo
+Property Price to Income Ratio,5.1,Bergamo
+Traffic Commute Time Index,26.33,Bergamo
+Pollution Index,48.5,Bergamo
+ Quality of Life Index,159.2,Bergamo
+Purchasing Power Index,,Belluno
+Safety Index,58.4,Belluno
+Health Care Index,41.67,Belluno
+Climate Index,88.22,Belluno
+Cost of Living Index,,Belluno
+Property Price to Income Ratio,2.29,Belluno
+Traffic Commute Time Index,72.5,Belluno
+Pollution Index,37.7,Belluno
+ Quality of Life Index,,Belluno
+Purchasing Power Index,,Barletta
+Safety Index,38.89,Barletta
+Health Care Index,69.44,Barletta
+Climate Index,,Barletta
+Cost of Living Index,,Barletta
+Property Price to Income Ratio,5.97,Barletta
+Traffic Commute Time Index,58.5,Barletta
+Pollution Index,40.46,Barletta
+ Quality of Life Index,,Barletta
+Purchasing Power Index,65.22,Bari
+Safety Index,49.93,Bari
+Health Care Index,50.14,Bari
+Climate Index,95.02,Bari
+Cost of Living Index,60.57,Bari
+Property Price to Income Ratio,9.64,Bari
+Traffic Commute Time Index,16.5,Bari
+Pollution Index,49.38,Bari
+ Quality of Life Index,145.91,Bari
+Purchasing Power Index,,Aversa
+Safety Index,53.43,Aversa
+Health Care Index,55.56,Aversa
+Climate Index,92.5,Aversa
+Cost of Living Index,,Aversa
+Property Price to Income Ratio,10.23,Aversa
+Traffic Commute Time Index,10.0,Aversa
+Pollution Index,100.86,Aversa
+ Quality of Life Index,,Aversa
+Purchasing Power Index,,Avellino
+Safety Index,50.74,Avellino
+Health Care Index,88.89,Avellino
+Climate Index,97.81,Avellino
+Cost of Living Index,,Avellino
+Property Price to Income Ratio,3.61,Avellino
+Traffic Commute Time Index,7.0,Avellino
+Pollution Index,70.23,Avellino
+ Quality of Life Index,,Avellino
+Purchasing Power Index,69.3,Arezzo
+Safety Index,57.34,Arezzo
+Health Care Index,56.94,Arezzo
+Climate Index,90.84,Arezzo
+Cost of Living Index,60.68,Arezzo
+Property Price to Income Ratio,6.02,Arezzo
+Traffic Commute Time Index,35.33,Arezzo
+Pollution Index,54.02,Arezzo
+ Quality of Life Index,143.67,Arezzo
+Purchasing Power Index,,Aosta
+Safety Index,76.62,Aosta
+Health Care Index,84.26,Aosta
+Climate Index,,Aosta
+Cost of Living Index,,Aosta
+Property Price to Income Ratio,6.03,Aosta
+Traffic Commute Time Index,32.0,Aosta
+Pollution Index,28.74,Aosta
+ Quality of Life Index,,Aosta
+Purchasing Power Index,,Anzio (Rome)
+Safety Index,61.55,Anzio (Rome)
+Health Care Index,81.48,Anzio (Rome)
+Climate Index,94.35,Anzio (Rome)
+Cost of Living Index,,Anzio (Rome)
+Property Price to Income Ratio,8.82,Anzio (Rome)
+Traffic Commute Time Index,100.0,Anzio (Rome)
+Pollution Index,60.34,Anzio (Rome)
+ Quality of Life Index,,Anzio (Rome)
+Purchasing Power Index,66.14,Ancona
+Safety Index,52.94,Ancona
+Health Care Index,61.11,Ancona
+Climate Index,92.89,Ancona
+Cost of Living Index,61.57,Ancona
+Property Price to Income Ratio,7.62,Ancona
+Traffic Commute Time Index,28.25,Ancona
+Pollution Index,43.06,Ancona
+ Quality of Life Index,151.73,Ancona
+Purchasing Power Index,,Alessandria
+Safety Index,70.15,Alessandria
+Health Care Index,53.89,Alessandria
+Climate Index,89.67,Alessandria
+Cost of Living Index,,Alessandria
+Property Price to Income Ratio,3.17,Alessandria
+Traffic Commute Time Index,15.0,Alessandria
+Pollution Index,70.08,Alessandria
+ Quality of Life Index,,Alessandria
